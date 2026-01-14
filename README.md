@@ -19,7 +19,6 @@ A comprehensive machine learning framework designed to predict **Total Dissolved
     - [Phase 2: Quantile Regression](#phase-2-quantile-regression)
     - [Phase 3: Probabilistic Distribution](#phase-3-probabilistic-distribution)
     - [Phase 4: Conformal Predictions](#phase-4-conformal-predictions)
-5. [🚀 Installation & Usage](#-installation--usage)
 
 ---
 
