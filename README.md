@@ -107,4 +107,4 @@ A wrapper method that calibrates any base model to provide valid intervals.
 
 ---
 
-*Analysis by []. Data Science for Environmental Good.* 🌍
+*Analysis by [Danesh Selwal and Prakriti Bisht]. Data Science for Environmental Good.* 🌍
